@@ -10,7 +10,7 @@ export const GifGrid = ({category}) => {
 	const { data:images, loading } = useFetchGifs( category );
 
 
-
+// holaaaa
 	
 
 	//GetGifs();
